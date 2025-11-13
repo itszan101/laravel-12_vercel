@@ -114,7 +114,7 @@ touch dist/.gitkeep
 
 > ⚠️ **Penting:** Ubah `APP_URL`, database host, dan credential sesuai environment kamu.
 
-### Modifikasi apabila menggunakan api route di baris "APP_URL" menjadi seperti berikut :
+### Modifikasi apabila menggunakan "api" route di baris "APP_URL" menjadi seperti berikut :
 
 ```bash
 "APP_URL": "https://link-to-your-app.vercel.app/api/api/",
